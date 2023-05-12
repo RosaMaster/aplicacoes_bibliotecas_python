@@ -18,7 +18,12 @@
 <!-- APP -->
 # <img src="https://www.alura.com.br/artigos/assets/python-uma-introducao-a-linguagem/imagem1.gif" alt="Waving hand animated gif" height="25" width="30" /> **CODE** <img src="https://www.alura.com.br/artigos/assets/python-uma-introducao-a-linguagem/imagem1.gif" alt="Waving hand animated gif" height="25" width="30" />
 
->&#128311; **001**: Cotação Moedas com Python
+>&#128311; **001**: Cotação Moedas com Python<br>
+>&#128311; **002**: <br>
+>&#128311; **003**: Donut Chart<br>
+>&#128311; **004**: Transforme Texto em Audio<br>
+>&#128311; **005**: Info Country<br>
+>&#128311; **006**: Converte Imagem para preto e branco<br>
 
 
 <br>
