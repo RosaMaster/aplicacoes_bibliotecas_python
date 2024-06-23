@@ -1,11 +1,4 @@
 # Lista Moedas - Dicionário com as moedas disponíveis para consulta
-'''
-| Código da Moeda   | Nome da Moeda     |
-| ----------------- | ----------------- |
-| USD               | Dólar dos EUA     |
-| EUR               | Euro              |
-| GBP               | Libra Esterlina   |
-'''
 
 moedas = {
     "USD": "Dólar dos EUA",
