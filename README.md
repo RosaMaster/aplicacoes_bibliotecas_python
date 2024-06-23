@@ -26,6 +26,26 @@
 >&#128311; **006**: Converte Imagem para preto e branco<br>
 
 
+### LIB's
+<details>
+
+###### `INFO` - Blibliotecas utilizadas nos projetos desse repositório por ordem alfabética6
+
+| **LIB**     | **DESCRIÇÃO**                                                                           |
+| ----------- | --------------------------------------------------------------------------------------- |
+| countryinfo |   |
+| flet        |   |
+| gtts        |   |
+| httpx       | é um cliente HTTP completo, que fornece APIs sincronizadas e assíncronas                |
+| matplotlib  |   |
+| num2words   | é uma lib para converter números em palavras em vários idiomas                          |
+| PIL         |   |
+| playsound   |   |
+| re          |   |
+| rembg       |   |
+
+</details>
+
 <br>
 
 ---

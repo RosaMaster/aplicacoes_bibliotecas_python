@@ -2,7 +2,7 @@
 
 #### Descrição
 
-> *HTTPX* é um cliente HTTP completo para Python 3, que fornece APIs sincronizadas e assíncronas e suporte para HTTP/1.1 e HTTP/2.
+> **HTTPX** é um cliente HTTP completo para Python 3, que fornece APIs sincronizadas e assíncronas e suporte para HTTP/1.1 e HTTP/2.
 
 > Documentação: https://www.python-httpx.org/
 
@@ -12,12 +12,12 @@
 
 <details>
 
-##### `INFO` - Instale HTTPX usando pip
+##### `INFO` - Instale **HTTPX** usando pip
 ``` bash
  $ pip install httpx
 ```
 
-##### `INFO` - ENTRADA dados
+##### `INFO` - Data Input | Output
 ``` python
 input:
 
@@ -27,7 +27,6 @@ input:
 output:
 
     1 USD vale 5.45 BRL
-
 ```
 </details>
 
@@ -37,20 +36,20 @@ output:
 
 <details>
 
-| *Código da Moeda* | *Nome da Moeda*      |
-| ----------------- | -------------------- |
-| ARS               | Peso Argentino       |
-| AUD               | Dólar Australiano    |
-| BOB               | Bolíviano da Bolívia |
-| BRL               | Real Brasileiro      |
-| CAD               | Dólar Canadense      |
-| CLP               | Peso Chileno         |
-| CZK               | Coroa Checa          |
-| EUR               | Euro                 |
-| GBP               | Libra Esterlina      |
-| IDR               | Rupia Indonésia      |
-| JPY               | Iene Japonês         |
-| RUB               | Rublo Russo          |
-| USD               | Dólar dos EUA        |
+| **Código da Moeda** | **Nome da Moeda**    |
+| ------------------- | -------------------- |
+| ARS                 | Peso Argentino       |
+| AUD                 | Dólar Australiano    |
+| BOB                 | Bolíviano da Bolívia |
+| BRL                 | Real Brasileiro      |
+| CAD                 | Dólar Canadense      |
+| CLP                 | Peso Chileno         |
+| CZK                 | Coroa Checa          |
+| EUR                 | Euro                 |
+| GBP                 | Libra Esterlina      |
+| IDR                 | Rupia Indonésia      |
+| JPY                 | Iene Japonês         |
+| RUB                 | Rublo Russo          |
+| USD                 | Dólar dos EUA        |
 
 </details>
