@@ -1,5 +1,3 @@
-# Cotação de moedas
-
 import httpx
 from lista import moedas
 

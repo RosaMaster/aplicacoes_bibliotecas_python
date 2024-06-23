@@ -1,6 +1,5 @@
 # Lista Moedas
 
-
 moedas = {
     "USD": "Dólar dos EUA",
     "EUR": "Euro",
@@ -16,4 +15,3 @@ moedas = {
     "IDR": "Rupia Indonésia",
     "CZK": "Coroa Checa",
 }
-
