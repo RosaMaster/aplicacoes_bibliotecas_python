@@ -1,5 +1,4 @@
-# Lista Moedas
-
+# Lista Moedas - Dicionário com as moedas disponíveis para consulta
 
 moedas = {
     "USD": "Dólar dos EUA",
@@ -16,4 +15,3 @@ moedas = {
     "IDR": "Rupia Indonésia",
     "CZK": "Coroa Checa",
 }
-
