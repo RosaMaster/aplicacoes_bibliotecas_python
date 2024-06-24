@@ -1,7 +1,9 @@
 import matplotlib.pyplot as plt
 
 fig, ax = plt.subplots()
+
 circle = plt.Circle((0, 0), 0.64, color='white')
+
 lbls = ['Codar', 'Estudar', 'Comer', 'Dormir']
 
 ax.pie([7, 4, 2, 5],
@@ -10,6 +12,8 @@ ax.pie([7, 4, 2, 5],
        pctdistance=.82)
 
 ax.add_artist(circle)
+
 ax.set_title('Donut Chart',fontsize=16)
+
 plt.show()
 

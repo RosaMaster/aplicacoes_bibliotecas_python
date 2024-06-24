@@ -19,8 +19,8 @@
 # <img src="https://www.alura.com.br/artigos/assets/python-uma-introducao-a-linguagem/imagem1.gif" alt="Waving hand animated gif" height="25" width="30" /> **CODE** <img src="https://www.alura.com.br/artigos/assets/python-uma-introducao-a-linguagem/imagem1.gif" alt="Waving hand animated gif" height="25" width="30" />
 
 >&#128311; **001**: Cotação Moedas com Python<br>
->&#128311; **002**: <br>
->&#128311; **003**: Donut Chart<br>
+>&#128311; **002**: Numero por Extenso<br>
+>&#128311; **003**: Donut Chart Graph<br>
 >&#128311; **004**: Transforme Texto em Audio<br>
 >&#128311; **005**: Info Country<br>
 >&#128311; **006**: Converte Imagem para preto e branco<br>
@@ -31,18 +31,28 @@
 
 ###### `INFO` - Blibliotecas utilizadas nos projetos desse repositório por ordem alfabética6
 
-| **LIB**     | **DESCRIÇÃO**                                                                           |
-| ----------- | --------------------------------------------------------------------------------------- |
-| countryinfo |   |
-| flet        |   |
-| gtts        |   |
-| httpx       | é um cliente HTTP completo, que fornece APIs sincronizadas e assíncronas                |
+| **LIB**     | **DESCRIÇÃO**                                                                                                             |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------- |
+| argparse    | é um módulo para fazer a Análise de Linha de Comando e que é recomendado e faz parte da Biblioteca Padrão do Python       |
+| calendar    | é um módulo que gera calendários como o programa Unix cal e fornece funções úteis adicionais relacionadas ao calendário   |
+| countryinfo | é um módulo python para retornar dados sobre países, informações ISO e estados/províncias dentro deles                    |
+| datetime    | é um módulo nomeado datetime para trabalhar com datas como objetos de data                                                |
+| flet        | crie rapidamente aplicativos interativos para web, desktop e dispositivos móveis em Python                                |
+| gTTS        | é uma biblioteca Python e ferramenta CLI para fazer interface com a API de conversão de texto em fala do Google Translate |
+| httpx       | é um cliente HTTP completo, que fornece APIs sincronizadas e assíncronas                                                  |
+| json        |   |
 | matplotlib  |   |
-| num2words   | é uma lib para converter números em palavras em vários idiomas                          |
+| numpy       |   |
+| num2words   | é uma lib para converter números em palavras em vários idiomas                                                            |
+| pandas      |   |
 | PIL         |   |
-| playsound   |   |
-| re          |   |
+| playsound   | é uma plataforma cruzada, módulo de função única sem dependências para reproduzir sons                                    |
+| random      |   |
+| re          | regex Regular Expression Operations - este módulo fornece operações para correspondência de expressões regulares          |
 | rembg       |   |
+| requests    |   |
+| tkinter     | o tkinter é a interface Python padrão para o kit de ferramentas GUI Tcl/Tk                                                |
+| unittest    |   |
 
 </details>
 
