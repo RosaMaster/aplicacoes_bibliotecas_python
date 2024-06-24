@@ -1,12 +1,9 @@
 from countryinfo import CountryInfo
-from lista import country_name
-
+from DATA.list_country_names import country_name
 
 print(f"{country_name}\n")
 
-
 country = CountryInfo(input('Digite o nome do país: '))
-
 
 print(f'País: {country.name()}')
 print(f'Capital: {country.capital()}')
