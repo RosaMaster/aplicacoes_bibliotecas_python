@@ -1,15 +1,16 @@
 # Convertendo imagens para imagem preto e branco
 
 from PIL import Image
+from DATA.lista_imagem import lista_imagem
 
-# Carrega Imagem
-image_file = Image.open("colorida.png")
+for i in range(len(lista_imagem)):
 
+    # Abre a imagem
+    img = Image.open(f'img\\{lista_imagem[i]}')
 
-# Converte imagem para preto e branco
-image_file = image_file.convert("L")
+    # Converte a imagem para preto e branco
+    img = img.convert('L')
 
-
-# Salva imagem em preto e branco
-image_file.save("preto_branco.png")
+    # Salva a imagem
+    img.save(f'img/img_0{i + 1}_bw.jpg')
 
