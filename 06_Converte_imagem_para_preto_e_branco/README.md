@@ -1,4 +1,4 @@
-### Número por Extenso
+### Convertendo Imagem para Preto e Branco
 
 #### Descrição
 

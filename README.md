@@ -16,15 +16,51 @@
 
 ---
 <!-- APP -->
-# <img src="https://www.alura.com.br/artigos/assets/python-uma-introducao-a-linguagem/imagem1.gif" alt="Waving hand animated gif" height="25" width="30" /> **CODE** <img src="https://www.alura.com.br/artigos/assets/python-uma-introducao-a-linguagem/imagem1.gif" alt="Waving hand animated gif" height="25" width="30" />
+### **PROJECT's**
 
->&#128311; **001**: Cotação Moedas com Python<br>
->&#128311; **002**: Numero por Extenso<br>
->&#128311; **003**: Donut Chart Graph<br>
->&#128311; **004**: Transforme Texto em Audio<br>
->&#128311; **005**: Info Country<br>
->&#128311; **006**: Converte Imagem para preto e branco<br>
+<details><br>
 
+> **001**: Cotação Moedas com Python<br>
+
+> **002**: Numero por Extenso<br>
+
+> **003**: Donut Chart Graph<br>
+
+> **004**: Transforme Texto em Audio<br>
+
+> **005**: Info Country<br>
+
+> **006**: Converte Imagem para preto e branco<br>
+
+> **007**: Removendo fundo de Imagens<br>
+
+> **008**: Sequência de Fibonacci<br>
+
+> **009**: Login Screen Flet<br>
+
+> **010**: Jogo da Velha<br>
+
+> **011**: Calendário<br>
+
+> **012**: API Pokemon<br>
+
+> **013**: Generator Password<br>
+
+> **014**: Generator Anagram<br>
+
+> **015**: Criando Dataframe Pandas<br>
+
+> **016**: Criando ARGS<br>
+
+> **017**: Diagramas<br>
+
+> **018**: Regex Function<br>
+
+> **019**: ???<br>
+
+> **020**: ???<br>
+
+</details>
 
 ### LIB's
 <details>
@@ -45,11 +81,11 @@
 | numpy       |   |
 | num2words   | é uma lib para converter números em palavras em vários idiomas                                                            |
 | pandas      |   |
-| PIL         |   |
+| PIL         | adiciona recursos de processamento de imagem ao seu interpretador Python                                                  |
 | playsound   | é uma plataforma cruzada, módulo de função única sem dependências para reproduzir sons                                    |
 | random      |   |
 | re          | regex Regular Expression Operations - este módulo fornece operações para correspondência de expressões regulares          |
-| rembg       |   |
+| rembg       | remove fundo de imagens                                                                                                   |
 | requests    |   |
 | tkinter     | o tkinter é a interface Python padrão para o kit de ferramentas GUI Tcl/Tk                                                |
 | unittest    |   |
