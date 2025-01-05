@@ -1,10 +1,14 @@
-### Info Country
+## Info Country
 
 #### Descrição
 
-> Biblioteca **countryinfo** é um módulo python para retornar dados sobre países, informações ISO e estados/províncias dentro deles
+Biblioteca **countryinfo** é um módulo python para retornar dados sobre países, informações ISO e estados/províncias dentro deles.<br>
 
-> Documentação: https://pypi.org/project/countryinfo/
+| Documentação                             |
+| ---------------------------------------- |
+| <https://pypi.org/project/countryinfo/>  |
+
+<br>
 
 ---
 

@@ -1,10 +1,14 @@
-### Donut Chart Graph - matplotlib
+## Donut Chart Graph - matplotlib
 
 #### Descrição
 
-> Biblioteca **Matplotlib** é uma biblioteca abrangente para criar visualizações estáticas, animadas e interativas em Python.
+Biblioteca **Matplotlib** é uma biblioteca abrangente para criar visualizações estáticas, animadas e interativas em Python.<br>
 
-> Documentação: https://pypi.org/project/matplotlib/
+| Documentação                           |
+| -------------------------------------- |
+| <https://pypi.org/project/matplotlib/> |
+
+<br>
 
 ---
 
