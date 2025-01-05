@@ -1,5 +1,5 @@
 from countryinfo import CountryInfo
-from DATA.list_country_names import country_name
+from utils.list_country_names import country_name
 
 print(f"{country_name}\n")
 
