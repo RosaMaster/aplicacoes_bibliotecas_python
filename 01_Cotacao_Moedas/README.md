@@ -1,10 +1,15 @@
-### Cotação de Moedas
+## Cotação de Moedas
 
 #### Descrição
 
-> **HTTPX** é um cliente HTTP completo para Python 3, que fornece APIs sincronizadas e assíncronas e suporte para HTTP/1.1 e HTTP/2.
+**HTTPX** é um cliente HTTP completo para Python 3, que fornece APIs sincronizadas e assíncronas e suporte para HTTP/1.1 e HTTP/2.<br>
 
-> Documentação: https://www.python-httpx.org/
+| Documentação                        |
+| ----------------------------------- |
+| <https://www.python-httpx.org/>     |
+| <https://www.exchangerate-api.com/> |
+
+<br>
 
 ---
 
@@ -18,7 +23,8 @@
 ```
 
 ##### `INFO` - Data Input | Output
-``` python
+
+```python
 input:
 
     Digite a moeda de base: USD  # INPUT 01 - Moeda Base

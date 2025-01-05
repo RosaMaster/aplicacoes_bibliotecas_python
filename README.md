@@ -1,34 +1,39 @@
 <!-- HEADER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=258f76&height=140&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0153E&height=140&section=header" alt="header"/>
+
 
 <!-- TITLE -->
-<h1 align="center" alt="title">
-  <img src="https://media0.giphy.com/media/crxNUSArkbdMwE7B4r/giphy.gif?cid=ecf05e47fs0o2g9jb9cjad9iogriaoh8r8n11wc43887475k&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="45" width="45" />
-    <b> APLICAÇÕES DE BIBLIOTECAS PYTHON </b>
-  <img src="https://media0.giphy.com/media/crxNUSArkbdMwE7B4r/giphy.gif?cid=ecf05e47fs0o2g9jb9cjad9iogriaoh8r8n11wc43887475k&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="45" width="45" />
-</h1>
+<h2 align="center" alt="title">
+
+    <head>    A P L I C A Ç Õ E S   D  E   L I B S   P Y T H O N    </head>
+
+</h2>
 
 
 <!-- DESCRIBLE -->
->As bibliotecas **Python** são um conjunto de módulos e funções úteis que reduzem o uso de código no programa. São mais de 137 mil bibliotecas Python que facilitam a programação dos desenvolvedores, com diversas finalidades. Por meio delas, é possível fazer tratamento de dados Python.<br>
->Este reposotório são alguns exemplos de aplicações de linguagem pythons e sua bilbioteca.
->**Link Documentação Biblioteca:** [https://docs.python.org/3.12/library/index.html](https://docs.python.org/3.12/library/index.html)&nbsp;
+As bibliotecas **Python** são um conjunto de módulos e funções úteis que reduzem o uso de código no programa. São mais de 137 mil bibliotecas Python que facilitam a programação dos desenvolvedores, com diversas finalidades. Por meio delas, é possível fazer tratamento de dados Python.<br>
+Este reposotório são alguns exemplos de aplicações de linguagem pythons e sua bilbioteca.<br>
+
+| Documentação                                       |
+| -------------------------------------------------- |
+| <https://docs.python.org/3.12/library/index.html/> |
 
 ---
+
 <!-- APP -->
 ### **PROJECT's**
 
 <details><br>
 
-> **001**: Cotação Moedas com Python<br>
+> **001**: [cotacao_moedas](./01_cotacao_moedas/README.md)<br>
 
-> **002**: Numero por Extenso<br>
+> **002**: [conversor_de_numero_para_texto_por_extenso](./02_conversor_de_numero_para_texto_por_extenso/README.md)<br>
 
-> **003**: Donut Chart Graph<br>
+> **003**: [donut_chart_graph](./03_donut_chart_graph/README.md)<br>
 
-> **004**: Transforme Texto em Audio<br>
+> **004**: [transforme texto em audio](./04_transforme%20texto%20em%20audio/README.md)<br>
 
-> **005**: Info Country<br>
+> **005**: [info country](./05_info_country/README.md)<br>
 
 > **006**: Converte Imagem para preto e branco<br>
 
@@ -62,6 +67,7 @@
 
 </details>
 
+<!--
 ### LIB's
 <details>
 
@@ -93,6 +99,7 @@
 </details>
 
 <br>
+-->
 
 ---
 

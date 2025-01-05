@@ -1,4 +1,4 @@
-from utils.utils import NumberToWords
+from utils.conversor import NumberToWords
 
 # Input dado pelo usuário
 numero = int(input('Digite um número: '))
