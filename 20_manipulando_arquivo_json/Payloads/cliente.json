@@ -1,0 +1,36 @@
+{
+    "nome": "Joao",
+    "sobrenome": "Pedro Sousa Silva",
+    "idade": 30,
+    "email": "p-s-s@teste.com",
+    "idiomas": {
+        "ingles": "fluente",
+        "espanhol": "basico",
+        "frances": "basico"
+    },
+    "carro": {
+        "marca": "Ford",
+        "modelo": "Fiesta",
+        "ano": 2010,
+        "cor": "branco",
+        "placa": "ABC-1234",
+        "km": 50000,
+        "vistorias": [
+            {
+                "data": "20200522",
+                "local": "DETRAN",
+                "resultado": "Aprovado"
+            },
+            {
+                "data": "20210215",
+                "local": "Autorizada",
+                "resultado": "Reprovado"
+            },
+            {
+                "data": "20230311",
+                "local": "DETRAN",
+                "resultado": "Aprovado"
+            }
+        ]
+    }
+}
