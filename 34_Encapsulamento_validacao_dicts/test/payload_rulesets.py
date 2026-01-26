@@ -31,6 +31,7 @@ class Rulesets:
     @classmethod
     def obter_regra(cls, nome_regra: str) -> dict:
         """Retorna uma cópia da regra para evitar mutação externa."""
+
         
         try:
             return copy.deepcopy(cls._rules[nome_regra])
